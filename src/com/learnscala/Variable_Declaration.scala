@@ -10,6 +10,6 @@ object Variable_Declaration {
     println(i)
     println(j)
     println(i+1)
-    println(j++)
+    println(j+1)
   }
 }
