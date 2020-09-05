@@ -22,12 +22,12 @@ object ScalaDataType {
     var a:Int=1
     var b:Double=1.0
     var c:Float=1
-    var d:Boolean=null
+    //var d:Boolean=null
     var e:Byte=1
     var f:Short=1
     var g:Long=1
     var h:StringOps="abc"
-    var i:Unit=1
-    var j:Char=null
+    //var i:Unit=1
+    //var j:Char=null
   }
 }
