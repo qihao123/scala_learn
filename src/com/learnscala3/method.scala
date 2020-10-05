@@ -2,13 +2,13 @@ package com.learnscala3
 
 object method {
   def main(args: Array[String]): Unit = {
-    val user:user=new user
-    user.test()
-    user.test("test")
+    val user2:user2=new user2
+    user2.test()
+    user2.test("test")
   }
 }
 
-class user{
+class user2{
   def test():Unit={
     println("test")
   }
